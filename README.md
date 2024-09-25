@@ -4,6 +4,7 @@ Ei Study Coding assignment
 This repository contains solutions for Exercise 1 and Exercise 2 from the 2024-25 coding challenge.
 
 Languages Used:Java 
+
 Design Patterns and Best Practices:Employed across both exercises with focus on logging, exception handling, SOLID principles, and optimized performance.
 
 Exercise 1: Design Patterns
