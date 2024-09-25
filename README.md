@@ -1,2 +1,2 @@
 # Ei-Study-Coding-Exercise
-Ei Study Cdoing assignment 
+Ei Study Coding assignment 
