@@ -23,7 +23,6 @@ Main.java: Demonstrates playing different media file types using the adapter.
 Workflow:
 
 The AudioPlayer can play mp3 files directly. For other formats like mp4 or vlc, it uses the MediaAdapter to convert the request into something the
-
 AdvancedMediaPlayer can handle.
 
 MediaAdapter takes an audio type and selects the correct AdvancedMediaPlayer to play the file.
