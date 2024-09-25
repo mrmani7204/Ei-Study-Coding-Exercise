@@ -1,7 +1,6 @@
 Adapter Pattern (Structural)
 
 The Adapter Pattern is used to make two incompatible interfaces work together. It acts as a bridge between two objects, allowing the client to interact with an
-
 interface that it normally would not be compatible with.
 
 Files:
