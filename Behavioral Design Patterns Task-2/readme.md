@@ -1,7 +1,6 @@
 Observer Pattern (Behavioral)
 
 The Observer Pattern allows one object (the Subject) to notify multiple other objects (the Observers) when its state changes. It is typically used when one object
-
 needs to keep other objects updated about its state.
 
 Files:
