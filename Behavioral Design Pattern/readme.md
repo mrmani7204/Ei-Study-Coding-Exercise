@@ -1,7 +1,6 @@
 Command Pattern (Behavioral)
 
 The Command Pattern turns a request into a stand-alone object, allowing it to be passed, stored, or executed later. It is used to decouple the sender of a request
-
 from the receiver, supporting undoable operations or queueing commands.
 
 Files:
