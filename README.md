@@ -24,16 +24,21 @@ Features Implemented
 
 Classroom Management:
 Add new classrooms
+
 List all classrooms
+
 Remove classrooms
 
 Student Management:
 Enroll students into classrooms
+
 List students in each classroom
 
 Assignment Management:
 Schedule assignments for classrooms
+
 Submit assignments for students
+
 List assignments by classroom
 
 
