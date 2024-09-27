@@ -46,3 +46,9 @@ Schedule and submit assignments.
 View all classrooms and the students enrolled in each classroom.
 
 View assignment details and submission statuses.
+
+How to run:
+
+First all the packages needed are created and .java files are created for particualr module 
+
+Then run the main.java present in edtech 
