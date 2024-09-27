@@ -15,4 +15,26 @@ This exercise demonstrates different software design patterns through six unique
 
 
 Exercise 2:
-This exercise focuses on building a console-based application based on one of the provided mini-project problem statements. I have implemented the 
+This exercise focuses on building a console-based application based on one of the provided mini-project problem statements. I have implemented the Virtual Classroom Manager Programming Exercise
+The application is designed to handle class scheduling, student management, and assignment submissions through a terminal-based interface.
+
+The Virtual Classroom Manager allows users to manage classrooms, students, and assignments. It supports operations like adding classrooms, enrolling students, scheduling assignments, and submitting assignments through simple console inputs.
+
+Features Implemented
+
+Classroom Management:
+Add new classrooms
+List all classrooms
+Remove classrooms
+
+Student Management:
+Enroll students into classrooms
+List students in each classroom
+
+Assignment Management:
+Schedule assignments for classrooms
+Submit assignments for students
+List assignments by classroom
+
+
+
