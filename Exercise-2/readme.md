@@ -49,6 +49,6 @@ View assignment details and submission statuses.
 
 How to run:
 
-First all the packages needed are created and .java files are created for particualr module 
+First all the packages needed are created and .java files are created for particualar module 
 
 Then run the main.java present in edtech 
